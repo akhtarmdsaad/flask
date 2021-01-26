@@ -1,0 +1,11 @@
+objective: To Make a successful social messenger app using flask
+
+TODO:
+login form
+database set up
+adding data to database
+changing data in database
+security concern
+frontend
+
+
